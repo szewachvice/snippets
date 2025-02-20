@@ -4,6 +4,8 @@ xkb_symbols "basic" {
     // Visualisation and description: http://podziemie.net/xkb/pl
     // Contact: Michał Górny <zrchos+freedesktop@gmail.com>
 
+    // goes in /usr/share/X11/xkb/symbols/pl
+
     include "latin"
 
     name[Group1]="Polish";
